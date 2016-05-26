@@ -1,0 +1,28 @@
+name: knowyourselfplanet
+favicon: null
+layout_spectrum: 0.3974684285931289
+typography_spectrum: 0.42295046243816614
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7737134566996247
+  lightness: 0.14656478026881814
+  saturation: 0.7017359035089612
+  rhythmicContrast: 0.07340454217046499
+purpose: []
