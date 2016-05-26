@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Be the best version of yourself]]></title>
+        <description><![CDATA[Be the best version of yourself]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 26 May 2016 11:06:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We believe that we all deserve to transform the experiences of our lives so we can experience more joy, worry less and serve more people to do the same.</p>]]></description>
+            <link>undefinedwe-believe-that-we-all-deserve-to-transform-the-experiences/index.html</link>
+            <guid isPermaLink="false">43750a36-6e38-42be-a006-376273d0b560</guid>
+            <pubDate>Thu, 26 May 2016 11:06:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
